@@ -1,0 +1,15 @@
+h1. kohana基于orm的扩展
+
+h2. 概述
+
+kohana-ext包含 对kohana3框架与通用模块的扩展，都是与关系型数据库相关的扩展。
+
+h2. 类的扩展
+
+* *Krishna_ORM_Relation* 扩展类ORM：关联对象的查询与操作.
+* *ORM_MPTT* 扩展类ORM_MPTT.
+* *Upload_Multi* 多文件上传的帮助类.
+* *Enum* 枚举的帮助类.
+* *Formation* 表单域输出的帮助类.
+* *ORM* 扩展类ORM.
+* *Upload* 扩展类Upload.
